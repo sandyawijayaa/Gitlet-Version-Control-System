@@ -1,0 +1,18 @@
+# initialize and then try useless commands
+> init
+<<<
+> init
+A Gitlet version-control system already exists in the current directory.
+<<<
+> init
+A Gitlet version-control system already exists in the current directory.
+<<<
+> commit "heyo"
+No changes added to the commit.
+<<<
+> commit "still nothinnn"
+No changes added to the commit.
+<<<
+> checkout other
+No such branch exists.
+<<<

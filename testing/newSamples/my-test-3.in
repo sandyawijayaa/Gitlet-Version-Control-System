@@ -1,0 +1,18 @@
+# Various errors with some successes
+> init
+<<<
++ g.txt notwug.txt
+> add g.txt
+<<<
+> commit "add g.txt"
+<<<
+> commit "again"
+No changes added to the commit.
+<<<
+# try removing
+> rm-branch other
+A branch with that name does not exist.
+<<<
+> rm-branch find
+A branch with that name does not exist.
+<<<

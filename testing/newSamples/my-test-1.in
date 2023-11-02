@@ -1,0 +1,13 @@
+# Use commands without initializing git repo
+> add wug2.txt
+Not in an initialized Gitlet directory.
+<<<
+> commit "ver 2 of wug.txt"
+Not in an initialized Gitlet directory.
+<<<
+> status
+Not in an initialized Gitlet directory.
+<<<
+> log
+Not in an initialized Gitlet directory.
+<<<
